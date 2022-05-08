@@ -1,0 +1,57 @@
+{
+  "IsMatch": true,
+  "Address": "0x0031e29fdd94c0a259eea28865855d8d22b426ce",
+  "Transactions": [
+    {
+      "Quantity": 2500,
+      "Currency": "USDC",
+      "ERC20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "BlockNumber": 13119209,
+      "TransactionHash": "0xca75652d0bd5128000c2ac0fcd8114cf64a89170bb245aae1f02bd778b0b0110",
+      "Address": {
+        "IsMatch": false,
+        "Address": "0xebe80b590a9c3349c1aaa60f44dea48bffa76f6b",
+        "Transactions": [
+          {
+            "Quantity": 2500,
+            "Currency": "USDC",
+            "ERC20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "BlockNumber": 13119146,
+            "TransactionHash": "0xd0f926d4da8b832043b030440217519e3492776aba228221bf5b99c420319c55",
+            "Address": {
+              "IsMatch": true,
+              "Address": "0x0031e29fdd94c0a259eea28865855d8d22b426ce",
+              "Transactions": [
+                {
+                  "Quantity": 2500,
+                  "Currency": "USDC",
+                  "ERC20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                  "BlockNumber": 13119209,
+                  "TransactionHash": "0xca75652d0bd5128000c2ac0fcd8114cf64a89170bb245aae1f02bd778b0b0110",
+                  "Address": {
+                    "IsMatch": false,
+                    "Address": "0xebe80b590a9c3349c1aaa60f44dea48bffa76f6b",
+                    "Transactions": [
+                      {
+                        "Quantity": 2500,
+                        "Currency": "USDC",
+                        "ERC20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                        "BlockNumber": 13119146,
+                        "TransactionHash": "0xd0f926d4da8b832043b030440217519e3492776aba228221bf5b99c420319c55",
+                        "Address": {
+                          "IsMatch": true,
+                          "Address": "0x0031e29fdd94c0a259eea28865855d8d22b426ce",
+                          "Transactions": []
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

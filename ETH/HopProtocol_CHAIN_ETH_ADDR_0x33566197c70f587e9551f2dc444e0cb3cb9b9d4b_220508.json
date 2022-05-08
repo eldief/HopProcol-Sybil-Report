@@ -1,0 +1,70 @@
+{
+  "IsMatch": true,
+  "Address": "0x33566197c70f587e9551f2dc444e0cb3cb9b9d4b",
+  "Transactions": [
+    {
+      "Quantity": 0,
+      "Currency": "MATIC",
+      "ERC20Address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "BlockNumber": 14442842,
+      "TransactionHash": "0x24b96f920d3cbee801388a29d180606bf9605af9ee6ab5d810d5b42baeac2843",
+      "Address": {
+        "IsMatch": true,
+        "Address": "0x33566197c70f587e9551f2dc444e0cb3cb9b9d4b",
+        "Transactions": [
+          {
+            "Quantity": 0,
+            "Currency": "MATIC",
+            "ERC20Address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+            "BlockNumber": 14442842,
+            "TransactionHash": "0x24b96f920d3cbee801388a29d180606bf9605af9ee6ab5d810d5b42baeac2843",
+            "Address": {
+              "IsMatch": true,
+              "Address": "0x33566197c70f587e9551f2dc444e0cb3cb9b9d4b",
+              "Transactions": [
+                {
+                  "Quantity": 0,
+                  "Currency": "MATIC",
+                  "ERC20Address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+                  "BlockNumber": 14442842,
+                  "TransactionHash": "0x24b96f920d3cbee801388a29d180606bf9605af9ee6ab5d810d5b42baeac2843",
+                  "Address": {
+                    "IsMatch": true,
+                    "Address": "0x33566197c70f587e9551f2dc444e0cb3cb9b9d4b",
+                    "Transactions": [
+                      {
+                        "Quantity": 0,
+                        "Currency": "MATIC",
+                        "ERC20Address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+                        "BlockNumber": 14442842,
+                        "TransactionHash": "0x24b96f920d3cbee801388a29d180606bf9605af9ee6ab5d810d5b42baeac2843",
+                        "Address": {
+                          "IsMatch": true,
+                          "Address": "0x33566197c70f587e9551f2dc444e0cb3cb9b9d4b",
+                          "Transactions": [
+                            {
+                              "Quantity": 0,
+                              "Currency": "MATIC",
+                              "ERC20Address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+                              "BlockNumber": 14442842,
+                              "TransactionHash": "0x24b96f920d3cbee801388a29d180606bf9605af9ee6ab5d810d5b42baeac2843",
+                              "Address": {
+                                "IsMatch": true,
+                                "Address": "0x33566197c70f587e9551f2dc444e0cb3cb9b9d4b",
+                                "Transactions": []
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

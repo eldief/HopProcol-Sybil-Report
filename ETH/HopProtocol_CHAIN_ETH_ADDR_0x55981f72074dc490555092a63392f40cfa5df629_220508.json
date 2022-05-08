@@ -1,0 +1,57 @@
+{
+  "IsMatch": true,
+  "Address": "0x55981f72074dc490555092a63392f40cfa5df629",
+  "Transactions": [
+    {
+      "Quantity": 1.0202537539509396E+21,
+      "Currency": "ND",
+      "ERC20Address": "0x4f81c790581b240a5c948afd173620ecc8c71c8d",
+      "BlockNumber": 13998424,
+      "TransactionHash": "0x7f5ed54ff6877faa89574436d2a2736f1abbf32172bdd68ffcd326cf1d1a51ba",
+      "Address": {
+        "IsMatch": false,
+        "Address": "0x2a3c74d3be10cfb8a7cb197d6c975ea095f99069",
+        "Transactions": [
+          {
+            "Quantity": 1.0202537539509396E+21,
+            "Currency": "ND",
+            "ERC20Address": "0x4f81c790581b240a5c948afd173620ecc8c71c8d",
+            "BlockNumber": 13998704,
+            "TransactionHash": "0x47993a00e7d06d9b59061419bc6d89cf1ed7fcf8e14d8ebaf42e5d84f9401e59",
+            "Address": {
+              "IsMatch": true,
+              "Address": "0x55981f72074dc490555092a63392f40cfa5df629",
+              "Transactions": [
+                {
+                  "Quantity": 1.0202537539509396E+21,
+                  "Currency": "ND",
+                  "ERC20Address": "0x4f81c790581b240a5c948afd173620ecc8c71c8d",
+                  "BlockNumber": 13998424,
+                  "TransactionHash": "0x7f5ed54ff6877faa89574436d2a2736f1abbf32172bdd68ffcd326cf1d1a51ba",
+                  "Address": {
+                    "IsMatch": false,
+                    "Address": "0x2a3c74d3be10cfb8a7cb197d6c975ea095f99069",
+                    "Transactions": [
+                      {
+                        "Quantity": 1.0202537539509396E+21,
+                        "Currency": "ND",
+                        "ERC20Address": "0x4f81c790581b240a5c948afd173620ecc8c71c8d",
+                        "BlockNumber": 13998704,
+                        "TransactionHash": "0x47993a00e7d06d9b59061419bc6d89cf1ed7fcf8e14d8ebaf42e5d84f9401e59",
+                        "Address": {
+                          "IsMatch": true,
+                          "Address": "0x55981f72074dc490555092a63392f40cfa5df629",
+                          "Transactions": []
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

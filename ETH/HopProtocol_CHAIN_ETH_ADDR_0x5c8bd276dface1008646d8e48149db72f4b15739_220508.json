@@ -1,0 +1,57 @@
+{
+  "IsMatch": true,
+  "Address": "0x5c8bd276dface1008646d8e48149db72f4b15739",
+  "Transactions": [
+    {
+      "Quantity": 30032.219903337336,
+      "Currency": "DAI",
+      "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "BlockNumber": 13710269,
+      "TransactionHash": "0x3f45c78c17d640a57364b7204be7b141322aba217ec6a3d6443d73ba0e5bf878",
+      "Address": {
+        "IsMatch": false,
+        "Address": "0xec89d4308c5250fe2386969f288b674d82a77fd7",
+        "Transactions": [
+          {
+            "Quantity": 7479.94463952,
+            "Currency": "DAI",
+            "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "BlockNumber": 13523584,
+            "TransactionHash": "0x5d8abb7c53323440e91f8e53a17773527f42ad25f4a64348b937dfa486e5ce5a",
+            "Address": {
+              "IsMatch": true,
+              "Address": "0x5c8bd276dface1008646d8e48149db72f4b15739",
+              "Transactions": [
+                {
+                  "Quantity": 30032.219903337336,
+                  "Currency": "DAI",
+                  "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                  "BlockNumber": 13710269,
+                  "TransactionHash": "0x3f45c78c17d640a57364b7204be7b141322aba217ec6a3d6443d73ba0e5bf878",
+                  "Address": {
+                    "IsMatch": false,
+                    "Address": "0xec89d4308c5250fe2386969f288b674d82a77fd7",
+                    "Transactions": [
+                      {
+                        "Quantity": 7479.94463952,
+                        "Currency": "DAI",
+                        "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                        "BlockNumber": 13523584,
+                        "TransactionHash": "0x5d8abb7c53323440e91f8e53a17773527f42ad25f4a64348b937dfa486e5ce5a",
+                        "Address": {
+                          "IsMatch": true,
+                          "Address": "0x5c8bd276dface1008646d8e48149db72f4b15739",
+                          "Transactions": []
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

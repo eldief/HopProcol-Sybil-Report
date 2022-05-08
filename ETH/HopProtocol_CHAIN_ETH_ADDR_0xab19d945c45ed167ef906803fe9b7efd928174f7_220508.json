@@ -1,0 +1,171 @@
+{
+  "IsMatch": true,
+  "Address": "0xab19d945c45ed167ef906803fe9b7efd928174f7",
+  "Transactions": [
+    {
+      "Quantity": 1,
+      "Currency": "DAI",
+      "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "BlockNumber": 14468683,
+      "TransactionHash": "0xd86bde842cba2c652a23f3fc7819b73aadc77b0220b9ab557ee963bf460374e8",
+      "Address": {
+        "IsMatch": true,
+        "Address": "0x9dc4ab89d33434a0ac38769220a8956cb7b6a2a2",
+        "Transactions": [
+          {
+            "Quantity": 1,
+            "Currency": "DAI",
+            "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "BlockNumber": 14451165,
+            "TransactionHash": "0xe040a36798a67dd2b347f9af546ad5fd6d802b47933043d86d7dc53e3e379d8d",
+            "Address": {
+              "IsMatch": true,
+              "Address": "0xab19d945c45ed167ef906803fe9b7efd928174f7",
+              "Transactions": [
+                {
+                  "Quantity": 1,
+                  "Currency": "DAI",
+                  "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                  "BlockNumber": 14468683,
+                  "TransactionHash": "0xd86bde842cba2c652a23f3fc7819b73aadc77b0220b9ab557ee963bf460374e8",
+                  "Address": {
+                    "IsMatch": true,
+                    "Address": "0x9dc4ab89d33434a0ac38769220a8956cb7b6a2a2",
+                    "Transactions": [
+                      {
+                        "Quantity": 1,
+                        "Currency": "DAI",
+                        "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                        "BlockNumber": 14451165,
+                        "TransactionHash": "0xe040a36798a67dd2b347f9af546ad5fd6d802b47933043d86d7dc53e3e379d8d",
+                        "Address": {
+                          "IsMatch": true,
+                          "Address": "0xab19d945c45ed167ef906803fe9b7efd928174f7",
+                          "Transactions": [
+                            {
+                              "Quantity": 1,
+                              "Currency": "DAI",
+                              "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                              "BlockNumber": 14468683,
+                              "TransactionHash": "0xd86bde842cba2c652a23f3fc7819b73aadc77b0220b9ab557ee963bf460374e8",
+                              "Address": {
+                                "IsMatch": true,
+                                "Address": "0x9dc4ab89d33434a0ac38769220a8956cb7b6a2a2",
+                                "Transactions": []
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "Quantity": 0.03,
+                        "Currency": "WETH",
+                        "ERC20Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                        "BlockNumber": 14468683,
+                        "TransactionHash": "0xd86bde842cba2c652a23f3fc7819b73aadc77b0220b9ab557ee963bf460374e8",
+                        "Address": {
+                          "IsMatch": true,
+                          "Address": "0xab19d945c45ed167ef906803fe9b7efd928174f7",
+                          "Transactions": [
+                            {
+                              "Quantity": 1,
+                              "Currency": "DAI",
+                              "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                              "BlockNumber": 14468683,
+                              "TransactionHash": "0xd86bde842cba2c652a23f3fc7819b73aadc77b0220b9ab557ee963bf460374e8",
+                              "Address": {
+                                "IsMatch": true,
+                                "Address": "0x9dc4ab89d33434a0ac38769220a8956cb7b6a2a2",
+                                "Transactions": []
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "Quantity": 0.03,
+            "Currency": "WETH",
+            "ERC20Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "BlockNumber": 14468683,
+            "TransactionHash": "0xd86bde842cba2c652a23f3fc7819b73aadc77b0220b9ab557ee963bf460374e8",
+            "Address": {
+              "IsMatch": true,
+              "Address": "0xab19d945c45ed167ef906803fe9b7efd928174f7",
+              "Transactions": [
+                {
+                  "Quantity": 1,
+                  "Currency": "DAI",
+                  "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                  "BlockNumber": 14468683,
+                  "TransactionHash": "0xd86bde842cba2c652a23f3fc7819b73aadc77b0220b9ab557ee963bf460374e8",
+                  "Address": {
+                    "IsMatch": true,
+                    "Address": "0x9dc4ab89d33434a0ac38769220a8956cb7b6a2a2",
+                    "Transactions": [
+                      {
+                        "Quantity": 1,
+                        "Currency": "DAI",
+                        "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                        "BlockNumber": 14451165,
+                        "TransactionHash": "0xe040a36798a67dd2b347f9af546ad5fd6d802b47933043d86d7dc53e3e379d8d",
+                        "Address": {
+                          "IsMatch": true,
+                          "Address": "0xab19d945c45ed167ef906803fe9b7efd928174f7",
+                          "Transactions": [
+                            {
+                              "Quantity": 1,
+                              "Currency": "DAI",
+                              "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                              "BlockNumber": 14468683,
+                              "TransactionHash": "0xd86bde842cba2c652a23f3fc7819b73aadc77b0220b9ab557ee963bf460374e8",
+                              "Address": {
+                                "IsMatch": true,
+                                "Address": "0x9dc4ab89d33434a0ac38769220a8956cb7b6a2a2",
+                                "Transactions": []
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "Quantity": 0.03,
+                        "Currency": "WETH",
+                        "ERC20Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                        "BlockNumber": 14468683,
+                        "TransactionHash": "0xd86bde842cba2c652a23f3fc7819b73aadc77b0220b9ab557ee963bf460374e8",
+                        "Address": {
+                          "IsMatch": true,
+                          "Address": "0xab19d945c45ed167ef906803fe9b7efd928174f7",
+                          "Transactions": [
+                            {
+                              "Quantity": 1,
+                              "Currency": "DAI",
+                              "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                              "BlockNumber": 14468683,
+                              "TransactionHash": "0xd86bde842cba2c652a23f3fc7819b73aadc77b0220b9ab557ee963bf460374e8",
+                              "Address": {
+                                "IsMatch": true,
+                                "Address": "0x9dc4ab89d33434a0ac38769220a8956cb7b6a2a2",
+                                "Transactions": []
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

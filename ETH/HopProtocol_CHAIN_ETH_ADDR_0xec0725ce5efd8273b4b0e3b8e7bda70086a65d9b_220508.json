@@ -1,0 +1,70 @@
+{
+  "IsMatch": true,
+  "Address": "0xec0725ce5efd8273b4b0e3b8e7bda70086a65d9b",
+  "Transactions": [
+    {
+      "Quantity": 1,
+      "Currency": "USDT",
+      "ERC20Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "BlockNumber": 13389846,
+      "TransactionHash": "0x8ccbc9c4479d6cf6004fc95b84f5c02280426a3208d018157285ed7eee0bc5aa",
+      "Address": {
+        "IsMatch": true,
+        "Address": "0xec0725ce5efd8273b4b0e3b8e7bda70086a65d9b",
+        "Transactions": [
+          {
+            "Quantity": 1,
+            "Currency": "USDT",
+            "ERC20Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "BlockNumber": 13389846,
+            "TransactionHash": "0x8ccbc9c4479d6cf6004fc95b84f5c02280426a3208d018157285ed7eee0bc5aa",
+            "Address": {
+              "IsMatch": true,
+              "Address": "0xec0725ce5efd8273b4b0e3b8e7bda70086a65d9b",
+              "Transactions": [
+                {
+                  "Quantity": 1,
+                  "Currency": "USDT",
+                  "ERC20Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                  "BlockNumber": 13389846,
+                  "TransactionHash": "0x8ccbc9c4479d6cf6004fc95b84f5c02280426a3208d018157285ed7eee0bc5aa",
+                  "Address": {
+                    "IsMatch": true,
+                    "Address": "0xec0725ce5efd8273b4b0e3b8e7bda70086a65d9b",
+                    "Transactions": [
+                      {
+                        "Quantity": 1,
+                        "Currency": "USDT",
+                        "ERC20Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                        "BlockNumber": 13389846,
+                        "TransactionHash": "0x8ccbc9c4479d6cf6004fc95b84f5c02280426a3208d018157285ed7eee0bc5aa",
+                        "Address": {
+                          "IsMatch": true,
+                          "Address": "0xec0725ce5efd8273b4b0e3b8e7bda70086a65d9b",
+                          "Transactions": [
+                            {
+                              "Quantity": 1,
+                              "Currency": "USDT",
+                              "ERC20Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                              "BlockNumber": 13389846,
+                              "TransactionHash": "0x8ccbc9c4479d6cf6004fc95b84f5c02280426a3208d018157285ed7eee0bc5aa",
+                              "Address": {
+                                "IsMatch": true,
+                                "Address": "0xec0725ce5efd8273b4b0e3b8e7bda70086a65d9b",
+                                "Transactions": []
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

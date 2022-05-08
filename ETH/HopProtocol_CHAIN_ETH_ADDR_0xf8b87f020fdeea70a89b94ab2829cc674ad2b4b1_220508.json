@@ -1,0 +1,70 @@
+{
+  "IsMatch": true,
+  "Address": "0xf8b87f020fdeea70a89b94ab2829cc674ad2b4b1",
+  "Transactions": [
+    {
+      "Quantity": 116.5907813493945,
+      "Currency": "DAI",
+      "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "BlockNumber": 13750874,
+      "TransactionHash": "0xe0853456feeaf4b23024d84fcefdf60e3361df62f5dfb5d89ef489fd0ffec409",
+      "Address": {
+        "IsMatch": true,
+        "Address": "0xd9559b46c199ecbd5f2dc83e8ed2b68bff60cab2",
+        "Transactions": [
+          {
+            "Quantity": 64.04678134939451,
+            "Currency": "DAI",
+            "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "BlockNumber": 13750926,
+            "TransactionHash": "0x0f2d3f1e8dd5c57e9bdb27c4308eb6ec5589d6b8897beebe53005d216c9f53e7",
+            "Address": {
+              "IsMatch": true,
+              "Address": "0x7b57fcd9c15874f5ce8460238da180c16eab040f",
+              "Transactions": [
+                {
+                  "Quantity": 11.502781349394509,
+                  "Currency": "DAI",
+                  "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                  "BlockNumber": 13751161,
+                  "TransactionHash": "0x24e425423976632e14bca668c4cd995f77ea7e7cc4dc21a3ab4099cb0d2b3389",
+                  "Address": {
+                    "IsMatch": true,
+                    "Address": "0x79d15c69a78bf3b8e33a7b616fb870b692ca59d5",
+                    "Transactions": [
+                      {
+                        "Quantity": 54.20741493591807,
+                        "Currency": "DAI",
+                        "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                        "BlockNumber": 13751314,
+                        "TransactionHash": "0x8ea40734426179092ebeaa5172ecf5b6ad7b25713775514bbdaa2c97c8c64833",
+                        "Address": {
+                          "IsMatch": true,
+                          "Address": "0x8653e60064ae9859d1b395dfd6a8416a5f49329e",
+                          "Transactions": [
+                            {
+                              "Quantity": 11.496414935918072,
+                              "Currency": "DAI",
+                              "ERC20Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                              "BlockNumber": 13816071,
+                              "TransactionHash": "0xbb36193f3b350563d6444a6fa556f609651652a2021d38fbf663651e1543c7b8",
+                              "Address": {
+                                "IsMatch": true,
+                                "Address": "0x825ec04c54ba5b8f504e1ba8b497a515f8d311f0",
+                                "Transactions": []
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
