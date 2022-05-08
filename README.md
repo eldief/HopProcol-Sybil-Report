@@ -9,7 +9,8 @@ For each address from https://github.com/hop-protocol/hop-airdrop/blob/master/sr
 
 All addresses with more than 10000 ERC20 transactions are considered smartcontracts and not attackers.  
 All addresses with more than 30 transactions are considered valid and not attackers.  
-All addresses with less than 2 matches are considerd valid and not attackers.
+All addresses with less than 2 matches are considerd valid and not attackers.  
+Finally all dumps are manually reviewed looking for patterns and excluding not obvious attacks
 
 The repository will be updated over time.
 
