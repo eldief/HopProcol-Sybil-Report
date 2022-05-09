@@ -1,0 +1,54 @@
+{
+  "IsMatch": true,
+  "Address": "0x18083ac4276c967d761daa0eb065c03ef55a6dca",
+  "Transactions": [
+    {
+      "Quantity": 20,
+      "Currency": "USDC",
+      "ERC20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "BlockNumber": 13293683,
+      "TransactionHash": "0xe0b3d0be659a474d6a7ffbd9ab365b72bab1ecc31853b9522c900feee9adaa78",
+      "Address": {
+        "IsMatch": true,
+        "Address": "0x3230377dd4be46cfe1fccef5e803e3b6c0613e57",
+        "Transactions": []
+      }
+    },
+    {
+      "Quantity": 20,
+      "Currency": "USDC",
+      "ERC20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "BlockNumber": 13294194,
+      "TransactionHash": "0xdca31aa02cc5e72c3ee7f34fe3dff453808192ce9661a9ef3b00817f1aedc553",
+      "Address": {
+        "IsMatch": true,
+        "Address": "0xb646d811ae0d383467afb2ff214954ff89f807e3",
+        "Transactions": []
+      }
+    },
+    {
+      "Quantity": 58.488366,
+      "Currency": "USDC",
+      "ERC20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "BlockNumber": 13294673,
+      "TransactionHash": "0x1d3545f9afa92058561c0448e5c1b470b38a0bf5581bf2f554fd974bde3ca55b",
+      "Address": {
+        "IsMatch": true,
+        "Address": "0x31a4e8dd6ee275a2bb1c6b2b3d9e88b0662531b0",
+        "Transactions": []
+      }
+    },
+    {
+      "Quantity": 235,
+      "Currency": "USDC",
+      "ERC20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "BlockNumber": 14261346,
+      "TransactionHash": "0x974f049a2885a5535dfec2ca7e78f29becf9ae4ad248b4e8d80a8d92a3492247",
+      "Address": {
+        "IsMatch": true,
+        "Address": "0x52b75d29bb556bcc4d160145819dfb37f02cd2e4",
+        "Transactions": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "IsMatch": true,
+  "Address": "0x71340166b12dd9e1baa71c975451885971917415",
+  "Transactions": [
+    {
+      "Quantity": 30,
+      "Currency": "USDC",
+      "ERC20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "BlockNumber": 13651939,
+      "TransactionHash": "0xa66886fdecf9a3375de94db65d2abb4ab6a8dc8da5e4323079a98d6549e6a54d",
+      "Address": {
+        "IsMatch": false,
+        "Address": "0x567eb48b92dc584e5840da74937b5cf1f6b340b8",
+        "Transactions": [
+          {
+            "Quantity": 200000000,
+            "Currency": "ND",
+            "ERC20Address": "0xc14a9456de06b3384299aaa955b962af1c54b3e2",
+            "BlockNumber": 13651939,
+            "TransactionHash": "0xa66886fdecf9a3375de94db65d2abb4ab6a8dc8da5e4323079a98d6549e6a54d",
+            "Address": {
+              "IsMatch": true,
+              "Address": "0x71340166b12dd9e1baa71c975451885971917415",
+              "Transactions": [
+                {
+                  "Quantity": 30,
+                  "Currency": "USDC",
+                  "ERC20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                  "BlockNumber": 13651939,
+                  "TransactionHash": "0xa66886fdecf9a3375de94db65d2abb4ab6a8dc8da5e4323079a98d6549e6a54d",
+                  "Address": {
+                    "IsMatch": false,
+                    "Address": "0x567eb48b92dc584e5840da74937b5cf1f6b340b8",
+                    "Transactions": [
+                      {
+                        "Quantity": 200000000,
+                        "Currency": "ND",
+                        "ERC20Address": "0xc14a9456de06b3384299aaa955b962af1c54b3e2",
+                        "BlockNumber": 13651939,
+                        "TransactionHash": "0xa66886fdecf9a3375de94db65d2abb4ab6a8dc8da5e4323079a98d6549e6a54d",
+                        "Address": {
+                          "IsMatch": true,
+                          "Address": "0x71340166b12dd9e1baa71c975451885971917415",
+                          "Transactions": []
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

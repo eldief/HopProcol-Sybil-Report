@@ -1,0 +1,68 @@
+{
+  "IsMatch": true,
+  "Address": "0xdb2a21b3afdc2047091f1dbb920bb6ea25c37fec",
+  "Transactions": [
+    {
+      "Quantity": 18493.914109,
+      "Currency": "USDC",
+      "ERC20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "BlockNumber": 13411135,
+      "TransactionHash": "0xf01270ce6adfada19fb8ceb48a8409185039655b525362675497c84c9ea42d71",
+      "Address": {
+        "IsMatch": true,
+        "Address": "0x7366db6d22debaa2f6f31dfaee06afbfe7f0b511",
+        "Transactions": [
+          {
+            "Quantity": 973.562065,
+            "Currency": "USDC",
+            "ERC20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "BlockNumber": 13620931,
+            "TransactionHash": "0xba81b8de86d7c81c79d5c9aa9d0b432ec2ccfb0c0ca71e9b440c9814b1863e7e",
+            "Address": {
+              "IsMatch": false,
+              "Address": "0x0abd2512ea02e90b93c001eabd421e18ef73d320",
+              "Transactions": [
+                {
+                  "Quantity": 40586.880168,
+                  "Currency": "USDC",
+                  "ERC20Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                  "BlockNumber": 13784703,
+                  "TransactionHash": "0xc69c3df427724a0718a3104a133250c14dd20e3060844deca0f1a7c3a8ba6d48",
+                  "Address": {
+                    "IsMatch": true,
+                    "Address": "0x2a8600bbdaab254a2f8a8e00912799295c3dd601",
+                    "Transactions": []
+                  }
+                },
+                {
+                  "Quantity": 1069.655391,
+                  "Currency": "USDT",
+                  "ERC20Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                  "BlockNumber": 13907533,
+                  "TransactionHash": "0x1674afeb806f23d09214e4b16a425dab681891f7ce7ca3d9b0ff0618839f6f7e",
+                  "Address": {
+                    "IsMatch": true,
+                    "Address": "0x2a8600bbdaab254a2f8a8e00912799295c3dd601",
+                    "Transactions": []
+                  }
+                },
+                {
+                  "Quantity": 1.3588677944596176E+22,
+                  "Currency": "ND",
+                  "ERC20Address": "0xf4d2888d29d722226fafa5d9b24f9164c092421e",
+                  "BlockNumber": 14030288,
+                  "TransactionHash": "0xb06e2b7e86ce14cecc940466d9ccd23bc30fdfc38134a208c56d6a9387be04c1",
+                  "Address": {
+                    "IsMatch": true,
+                    "Address": "0x2a8600bbdaab254a2f8a8e00912799295c3dd601",
+                    "Transactions": []
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
