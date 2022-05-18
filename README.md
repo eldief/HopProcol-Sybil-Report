@@ -67,7 +67,7 @@ toBlock: 26595905
 Criteria:  
 - All addresses with more than 10000 ERC20 transactions are considered smartcontracts and not attackers.
 - All addresses with more than 30 transactions are considered valid and not attackers.
-- All addresses with less than 4 matches are considerd valid and not attackers.  
+- All addresses with less than 10 matches are considerd valid and not attackers.  
 - Manual review of each dump to exclude non obvious attackers using the following rule:  
   - Addresses that sent an equal or an almost equal amount of the same token to a chain of valid addresses in a short period of time
 
